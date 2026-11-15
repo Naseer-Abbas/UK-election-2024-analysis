@@ -1,0 +1,15 @@
+Lab: Total Votes: 7597968, Total MPs: 411
+SNP: Total Votes: 142939, Total MPs: 9
+Con: Total Votes: 2120108, Total MPs: 121
+RUK: Total Votes: 80370, Total MPs: 5
+LD: Total Votes: 1616862, Total MPs: 72
+DUP: Total Votes: 80063, Total MPs: 5
+SF: Total Votes: 152320, Total MPs: 7
+SDLP: Total Votes: 36992, Total MPs: 2
+Ind: Total Votes: 0, Total MPs: 6
+Green: Total Votes: 95551, Total MPs: 4
+PC: Total Votes: 69636, Total MPs: 4
+Spk: Total Votes: 0, Total MPs: 1
+APNI: Total Votes: 18618, Total MPs: 1
+TUV: Total Votes: 0, Total MPs: 1
+UUP: Total Votes: 16311, Total MPs: 1

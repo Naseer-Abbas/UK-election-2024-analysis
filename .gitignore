@@ -1,0 +1,8 @@
+# Generated output
+statistics.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
